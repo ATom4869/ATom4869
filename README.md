@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ATom4869
 - 👀 I’m interested in Blockchain Decentralize App development
 - 🌱 I’m currently learning Blockchain, Ethereum network, and some javascript code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ ????
 - 📫 How to reach me : arsontomanta@gmail.com
 
 <!---
