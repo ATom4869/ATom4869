@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATom4869
 - 👀 I’m interested in Blockchain Decentralize App development
-- 🌱 I’m currently learning Blockchain, Ethereum network, and some javascript code
+- 🌱 I’m currently understanding some of Blockchain development environment, highly familiar with EVM-Base network, and like using NextJS for frontend build 
 - 📫 How to reach me : arsontomanta@gmail.com
 
 <!---
