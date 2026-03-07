@@ -48,12 +48,6 @@ I'm a **fullstack developer** passionate about building robust, scalable systems
 
 ---
 
-### 🎵 Currently Jamming To...
-
-<p align="center">
-  <img src="https://spotify-now-playing.vercel.app/api?user=ATom4869" alt="Spotify Now Playing" width="400" />
-</p>
-
 > 💡 **Note**: Connect your Spotify at [Spotify Now Playing](https://github.com/kittinan/spotify-now-playing) to enable real-time music display!
 
 ---
