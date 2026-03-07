@@ -64,8 +64,8 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATom4869&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATom4869&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ATom4869&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATom4869&theme=tokyonight" width="400" />
 </p>
 
 ---
