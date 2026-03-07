@@ -1,7 +1,22 @@
 <p align="center">
   <a href="https://votrexian.my.id">
-    <img src="https://github.com/ATom4869/votrexian-web-homepage/blob/main/public/logo-votrexian-header.png" width="400px" alt="Votrexian Logo" />
+    <svg width="350" height="70" viewBox="0 0 400 70" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="gradV" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#2563EB;stop-opacity:1" />
+        </linearGradient>
+        <linearGradient id="gradText" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+          <stop offset="100%" style="stop-color:#9333EA;stop-opacity:1" />
+        </linearGradient>
+      </defs>
+      <text x="10" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="60" font-weight="bold" font-style="italic" fill="url(#gradV)">V</text>
+      <text x="50" y="50" font-family="'Arial Black', sans-serif" font-size="42" font-weight="900" letter-spacing="-3" fill="url(#gradText)">otrexian</text>
+    </svg>
   </a>
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=ATom4869&color=3B82F6&style=flat-square&label=VISITOR+COUNT" alt="visitor counter" />
 </p>
 
 # 🛠️ Hi, I'm Arson Tomanta! (ATom4869) 
@@ -35,9 +50,18 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **The Lab (Hardware)**
-* **Main Rig**: Lenovo Ideapad Gaming 3
-* **Home Server**: Acer Aspire E5-421 (Ubuntu Server, repurposed Micro Server)
-* **Mobile**: Poco X5 5G
+* 💻 **Main Rig**: Lenovo Ideapad Gaming 3 (16GB RAM Upgraded)
+* 🏠 **Home Server**: Acer Aspire E5-421 (Ubuntu Server, repurposed Micro Server)
+* 📱 **Mobile**: Poco X5 5G (Daily Driver & Testing)
+
+---
+
+### 🎵 Currently Jamming To...
+<p align="left">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=MASUKKAN_ID_SPOTIFY_MU&cover_image=true&theme=tokyonight">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=MASUKKAN_ID_SPOTIFY_MU&cover_image=true&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
