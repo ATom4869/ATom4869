@@ -19,7 +19,7 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 
 | Project | Status | Description |
 | :--- | :--- | :--- |
-| **[VotreX](https://votrex-app.votrexian.my.id)** | 🌐 Live | My personal ecosystem hub. |
+| **[VotreX](https://votrex-app.votrexian.my.id)** | 🌐 Live | D-Voting DApp Concept for Election Powered by Flared Network Chain |
 | **[ConvertXion](https://convertxion.votrexian.my.id)** | ⚡ Fast | Image conversion powered by **Xion Engine (Rust)**. |
 | **[BlobberX](https://simpan-aku.votrexian.my.id)** | 💾 Active | Personal cloud storage hosted on my home server. |
 | **[Agentic Voxy](https://agentic.votrexian.my.id)** | 🏗️ *Dev* | AI Agent assistant exploring LLM integration. |
