@@ -1,4 +1,10 @@
-# 🛠️ Hi, I'm Arson! (ATom4869) 
+<p align="center">
+  <a href="https://votrexian.my.id">
+    <img src="https://raw.githubusercontent.com/ATom4869/votrexian-web-homepage/main/public/logo-votrexian-header.png" width="400px" alt="Votrexian Logo" />
+  </a>
+</p>
+
+# 🛠️ Hi, I'm Arson Tomanta! (ATom4869) 
 
 ### 🌌 Ecosystem Builder | Typescripter & Blockchain Explorer
 
@@ -21,9 +27,11 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 
 **Coding & Tools**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **The Lab (Hardware)**
@@ -36,7 +44,7 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 ### 🎸 Beyond the Terminal
 
 * **Music**: Baritone vocalist & Acoustic-electric guitar player.
-* **Gaming**: Trailblazer in *Honkai: Star Rail* .
+* **Gaming**: Trailblazer in *Honkai: Star Rail*.
 * **Philosophy**: Always building, always learning. *Yoroshiku ne!* ✌️
 
 ---
@@ -51,7 +59,3 @@ I'm a fullstack developer who loves building things from the ground up—from hi
 ---
 
 📫 **Reach me at:** [arsontomanta@votrexian.my.id](mailto:arsontomanta@votrexian.my.id)
-<!---
-ATom4869/ATom4869 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
