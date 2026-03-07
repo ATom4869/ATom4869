@@ -48,10 +48,6 @@ I'm a **fullstack developer** passionate about building robust, scalable systems
 
 ---
 
-> 💡 **Note**: Connect your Spotify at [Spotify Now Playing](https://github.com/kittinan/spotify-now-playing) to enable real-time music display!
-
----
-
 ### 🎸 Beyond the Terminal
 
 - 🎤 **Music**: Baritone vocalist & Acoustic-electric guitar enthusiast—always working on new compositions
