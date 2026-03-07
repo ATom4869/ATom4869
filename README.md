@@ -72,10 +72,6 @@ I'm a **fullstack developer** passionate about building robust, scalable systems
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATom4869&theme=tokyonight" alt="GitHub Streak Stats" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATom4869&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="400" />
-</p>
-
 ---
 
 ### 💬 Let's Connect
