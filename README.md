@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://votrexian.my.id">
-    <img src="https://github.com/ATom4869/votrexian-web-homepage/blob/main/public/logo-votrexian-header.png?raw=true" height="60" alt="Votrexian Logo" />
+    <img src="https://assets.votrexian.my.id/logo/Logo.svg" height="60" alt="Votrexian Logo" />
   </a>
   <br>
   <br>
